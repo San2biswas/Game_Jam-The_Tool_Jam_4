@@ -1,0 +1,70 @@
+APPLICATION DEVELOPMENT DOCUMENT
+---------------------------------
+
+Ideas :
+
+portal/client
+password protector
+confidential Info
+contacts
+encryption
+online sync
+
+----------------------------------------------------
+
+Features :
+
+Portal/Client >
+	register
+	sign in
+	auto logout
+
+
+password protector >
+	password - health - last changed 
+	recommendation
+	warning to change
+	tips of the day
+
+
+contacts >
+	name - contact - mail - address - reference
+
+------------------------------------------------------
+
+Process :
+
+login/register >
+	user name :  
+	password : 
+
+
+register >
+	user name :
+	password :
+	retype password :
+	secret question :
+
+
+forget password >
+	secret answer
+
+
+dashboard >
+	password protect
+	confidential notes
+	contacts
+
+------------------------------------------------------
+
+Tools :
+
+code and language - gamemaker studio 2, gml
+documents - notepad
+art - figma
+animation - aseprite
+sound - audacity
+
+-------------------------------------------------------
+
+
